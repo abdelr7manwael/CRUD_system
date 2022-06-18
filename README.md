@@ -6,7 +6,7 @@ https://drive.google.com/file/d/1ayF4JdCn9ESBl2DW4y5TgxF6s3bTxvnO/view?usp=shari
 
 ---------------------------------------------
 
-# project decribtion:
+# project description:
  
     conneting with database (php&maysql) and do CRUd (creat, read, update, delete) operations. 
 --------------------------------------------------------------------------------
